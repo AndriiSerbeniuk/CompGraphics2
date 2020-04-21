@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="cglr2.T2DGraphicsObject">
+    <Position X="9.25" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgQQQAAFAEAAIAAAAqAAAABEAABAAAACAAEAAgIAAA=</HashCode>
+      <FileName>2DGraphicsObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Affinity">
+    <Position X="8.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAIEAAABEAAAAAIAACAEAAAAAAA=</HashCode>
+      <FileName>Affinity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Blade">
+    <Position X="18.5" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EBAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Blade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Coordinates">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAAA=</HashCode>
+      <FileName>Coordinates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.cglr2">
+    <Position X="0.5" Y="2.5" Width="3.25" />
+    <Members>
+      <Field Name="AutoRescalingBox" Hidden="true" />
+      <Field Name="CentreScreenButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="EnableBladeCB" Hidden="true" />
+      <Field Name="EnableGripCB" Hidden="true" />
+      <Field Name="EnableGuardCB" Hidden="true" />
+      <Field Name="EnableHiltCB" Hidden="true" />
+      <Field Name="EnablePommelCB" Hidden="true" />
+      <Field Name="HorScalBox" Hidden="true" />
+      <Field Name="HorTransBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="MainPB" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+      <Field Name="panel4" Hidden="true" />
+      <Field Name="panel5" Hidden="true" />
+      <Field Name="panel6" Hidden="true" />
+      <Field Name="panel7" Hidden="true" />
+      <Field Name="ReflectXButton" Hidden="true" />
+      <Field Name="ReflectYButon" Hidden="true" />
+      <Field Name="RelatPointHelp" Hidden="true" />
+      <Field Name="RelatXTB" Hidden="true" />
+      <Field Name="RelatYTB" Hidden="true" />
+      <Field Name="RotationHelp" Hidden="true" />
+      <Field Name="RotDegBox" Hidden="true" />
+      <Field Name="ScalingHelp" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+      <Field Name="tableLayoutPanel2" Hidden="true" />
+      <Field Name="TransHelp" Hidden="true" />
+      <Field Name="VertScalBox" Hidden="true" />
+      <Field Name="VertTransBox" Hidden="true" />
+      <Field Name="ZoomScrlBar" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>81GIlSgZzqAyjLAAugLAIBACWAEBgUGDGQApIQQAEWA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Grip">
+    <Position X="11" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Grip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Guard">
+    <Position X="13.5" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Guard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Hilt">
+    <Position X="7.75" Y="10.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Hilt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Normalisation">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAMAAEAAAAAA=</HashCode>
+      <FileName>Normalisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.PolygonalGraphicsObj">
+    <Position X="13.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABAAAAAAAAQoAAAABEAABAAAAQAAECAEAAIA=</HashCode>
+      <FileName>PolygonalGraphicsObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.PolygonalGrObjCollection">
+    <Position X="5.25" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAUAAABAAAAJAAAAoQAAgBEAADAIAAAAAEAAAAAAA=</HashCode>
+      <FileName>PolygonalGrObjCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Pommel">
+    <Position X="16" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Pommel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Program">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.Sword">
+    <Position X="4.25" Y="10.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cglr2.TMatrix">
+    <Position X="11.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAYAAAAgIAAAABAAAAQAAAACAAAAAAAAAAAgA=</HashCode>
+      <FileName>TMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

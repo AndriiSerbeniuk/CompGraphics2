@@ -1,0 +1,10 @@
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\bin\x64\Debug\cglr2.exe.config
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\bin\x64\Debug\cglr2.exe
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\bin\x64\Debug\cglr2.pdb
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.csprojAssemblyReference.cache
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.Properties.Resources.resources
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.csproj.GenerateResource.cache
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.csproj.CoreCompileInputs.cache
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.exe
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.pdb
+D:\Сире\VS\2 курс\комп'ютерна графіка\cglr2\obj\x64\Debug\cglr2.cglr2.resources
